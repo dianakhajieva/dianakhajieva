@@ -2,7 +2,7 @@
 
 # Diana Khajieva
 
-### Data Analytics & Data Science | Applying to Graduate School
+### Data Analytics & Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-khajieva/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dianakhajieva@gmail.com)
@@ -49,7 +49,7 @@ Focused on data analytics, data science, and applied AI — currently researchin
 
 ### GitHub Stats
 
-![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianakhajieva&show_icons=true&theme=radical)
+![Diana's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dianakhajieva&show_icons=true&theme=radical&hide=stars,contribs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dianakhajieva&theme=radical)](https://git.io/streak-stats)
 
